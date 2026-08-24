@@ -18,7 +18,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 #  НАСТРОЙКИ
 # ============================================================
 
-BOT_TOKEN = "8497402362:AA6VZ6JHahbrdxZLJmhLMdG1YzIZuRBA"
+BOT_TOKEN = "8497402362:AAGVZ8jHwbrdxZLTJmihLMDqjyYNziZuRBA"
 URL = "https://services.vfsglobal.by/blr/ru/ita/api/application-detail"
 CHECK_INTERVAL = 60
 STATE_FILE = "bot_state.json"
