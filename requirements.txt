@@ -2,3 +2,4 @@ aiogram
 requests
 selenium
 webdriver-manager
+aiohttp
